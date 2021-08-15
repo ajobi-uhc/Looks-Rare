@@ -1,1 +1,1 @@
-#LooksRare test repository
+LooksRare test repository
