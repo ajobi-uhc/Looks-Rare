@@ -1,1 +1,3 @@
-LooksRare test repository
+Looks Rare - test repository 
+
+Awaiting cloning
